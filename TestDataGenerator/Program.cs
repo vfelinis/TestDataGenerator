@@ -11,7 +11,7 @@ namespace TestDataGenerator
         static void Main(string[] args)
         {
             var a = 5;
-            if(a > 10)
+            if (a < 10)
             {
                 Console.WriteLine("hello World!");
                 Console.WriteLine("New Branch");
