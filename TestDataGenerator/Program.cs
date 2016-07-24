@@ -13,7 +13,7 @@ namespace TestDataGenerator
             var a = 5;
             if (a < 10)
             {
-                Console.WriteLine("1111111111111999999999999");
+                Console.WriteLine("1111111111111");
                 Console.WriteLine("New Branch");
             }           
         }
