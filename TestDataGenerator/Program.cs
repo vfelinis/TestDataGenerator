@@ -10,8 +10,12 @@ namespace TestDataGenerator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello World!");
-            Console.WriteLine("New Branch");
+            var a = 5;
+            if(a > 10)
+            {
+                Console.WriteLine("hello World!");
+                Console.WriteLine("New Branch");
+            }           
         }
     }
 }
